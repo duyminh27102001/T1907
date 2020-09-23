@@ -1,0 +1,34 @@
+﻿<Page
+    x:Class="T1907A.Pages.CustomerList"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:T1907A.Pages"
+    xmlns:models="using:T1907A.Models"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <RelativePanel Grid.Column="0">
+            <Button Content="Add Customer" Width="100" Height="40" Margin="0,20,20,0" Click="Button_Click"/>
+        </RelativePanel>
+        <ListView Grid.Column="1" x:Name="CL">
+                <ListView.ItemTemplate>
+                    <DataTemplate x:DataType="models:Customer">
+                        <ListViewItem>
+                        <RelativePanel HorizontalAlignment="Center">
+                            <TextBlock x:Name="Name" Text="{x:Bind Name}"/>
+                            <TextBlock x:Name="Phonenumber" RelativePanel.Below="Name" Text="{x:Bind Phonenumber}"/>
+                        </RelativePanel>
+                    </ListViewItem>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        
+    </Grid>
+</Page>

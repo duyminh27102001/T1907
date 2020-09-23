@@ -1,0 +1,16 @@
+C:\Users\Hoang Minh\source\repos\T1907A\T1907A\obj\ARM\Debug\T1907A.csprojAssemblyReference.cache
+C:\Users\Hoang Minh\source\repos\T1907A\T1907A\obj\ARM\Debug\App.g.i.cs
+C:\Users\Hoang Minh\source\repos\T1907A\T1907A\obj\ARM\Debug\App.g.cs
+C:\Users\Hoang Minh\source\repos\T1907A\T1907A\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Hoang Minh\source\repos\T1907A\T1907A\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Hoang Minh\source\repos\T1907A\T1907A\obj\ARM\Debug\Pages\SplitViewDemo.g.i.cs
+C:\Users\Hoang Minh\source\repos\T1907A\T1907A\obj\ARM\Debug\Pages\SplitViewDemo.g.cs
+C:\Users\Hoang Minh\source\repos\T1907A\T1907A\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Hoang Minh\source\repos\T1907A\T1907A\obj\ARM\Debug\App.xaml
+C:\Users\Hoang Minh\source\repos\T1907A\T1907A\obj\ARM\Debug\MainPage.xaml
+C:\Users\Hoang Minh\source\repos\T1907A\T1907A\obj\ARM\Debug\Pages\SplitViewDemo.xaml
+C:\Users\Hoang Minh\source\repos\T1907A\T1907A\obj\ARM\Debug\App.xbf
+C:\Users\Hoang Minh\source\repos\T1907A\T1907A\obj\ARM\Debug\MainPage.xbf
+C:\Users\Hoang Minh\source\repos\T1907A\T1907A\obj\ARM\Debug\Pages\SplitViewDemo.xbf
+C:\Users\Hoang Minh\source\repos\T1907A\T1907A\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Hoang Minh\source\repos\T1907A\T1907A\obj\ARM\Debug\T1907A.csproj.CoreCompileInputs.cache
